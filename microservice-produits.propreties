@@ -1,5 +1,6 @@
 mes-configs.limitCommande=20
 mes-config-ms.commandes-last=10
+server.port= 9100
 
 eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
 

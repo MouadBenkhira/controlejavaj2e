@@ -4,7 +4,7 @@ spring.h2.console.enabled=true
 #defini l'encodage pour data.sql
 spring.datasource.sql-script-encoding=UTF-8
 #Eureka :indique l'URL d'Eureka à laquelle il faut s'enregistrer
-eureka.client.serviceUrl.defaultZone=http://localhost:9102/eureka/
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
 eureka.client.fetch-registry=true
 eureka.client.register-with-eureka=true
 #Actuator : management.endpoints.web.exposure.include=*

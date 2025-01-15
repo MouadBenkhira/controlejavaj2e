@@ -6,6 +6,7 @@ eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
 management.endpoints.web.expose=info, health, refresh
 
 
+
 logging.level.com.myHR=INFO
 spring.mvc.contentnegotiation.favor-path-extension=false
 spring.mvc.contentnegotiation.favor-parameter=false
